@@ -29,11 +29,6 @@ The `train_model` function trains the robot model. It takes the number of epochs
 The `train_model` function is called from the `__main__` block, where the number of epochs is specified. This block serves as the entry point for executing the training process.
 
 To run the project, ensure that all dependencies are installed and execute the script. Adjust the number of epochs as needed.
-
-```python
-if __name__ == '__main__':
-    no_epochs = 5
-    train_model(no_epochs)
     
     
 [![pythonbadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
